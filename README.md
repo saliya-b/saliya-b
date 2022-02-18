@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @saliya-b
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Saliya.
+- 👀 I’m interested in Full-Stack development
+- 🌱 I’m currently learning Node.js
+- 💞️ I’m looking to collaborate on ambitious projects with positive people.
 - 📫 How to reach me ...
 
 <!---
