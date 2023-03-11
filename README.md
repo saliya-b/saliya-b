@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saliya.
 - 👀 I’m interested in Full-Stack development
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ambitious projects with positive people.
 - 📫 How to reach me ...
 
