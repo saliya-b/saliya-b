@@ -9,9 +9,9 @@
 
 ###
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saliya-bandara) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://saliyadev1.page.link/linkedin) 
 
- <h3 align="left">Language and tools</h3>
+ <h3 align="left">Language and Tools</h3>
 
 ###
 
